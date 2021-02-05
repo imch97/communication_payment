@@ -1,0 +1,20 @@
+.input_phone_number
+    text-align: left
+    display: flex
+    align-items: center
+
+.input_phone_number > input
+    height: 30px
+    font-size: 1rem
+    
+@media screen and ( max-width: 575px )
+    .input_phone_number
+        margin-top: 10px
+        flex-direction: column 
+        // margin-left: 15px
+
+@media screen and ( min-width: 576px )
+    .errors
+        margin-left: 15px
+        color: red
+        text-transform: uppercase

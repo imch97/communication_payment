@@ -1,0 +1,32 @@
+.button_pay > button
+    display: block
+    width: 100px
+    height: 36px
+    font-weight: 600
+    color: white
+    background-color: #fa5923
+    border: none
+    outline: none
+    cursor: pointer
+    animation: borderPulseRed 1.23s ease-out infinite;
+
+
+@media screen and ( max-width: 575px )
+    .button_pay > button
+        margin-top: 15px
+        width: 100%
+    
+
+@-webkit-keyframes borderPulseRed
+    0% 
+        box-shadow: inset 0 0 0 5px rgba(251, 132, 111, 0.4), 0 0 0 0 #fb836f;
+    to 
+        box-shadow: inset 0 0 0 3px rgba(232, 232, 255, 0.2), 0 0 0 10px rgba(251, 132, 111, 0);
+      
+@keyframes borderPulseRed 
+  0% 
+    box-shadow: inset 0 0 0 5px rgba(251, 132, 111, 0.4), 0 0 0 0 #fb836f;
+  
+  to 
+    box-shadow: inset 0 0 0 3px rgba(232, 232, 255, 0.2), 0 0 0 10px rgba(251, 132, 111, 0);
+  
