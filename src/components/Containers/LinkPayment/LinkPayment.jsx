@@ -27,7 +27,7 @@ const LinkPayment = () => {
 				toastProperties = {
 					id,
 					title: 'Success',
-					description: `Pay ${Number(amount)} on ${phone}`,
+					description: `Pay ${Number(amount)} on ${phone} in ${operator}`,
 					backgroundColor: '#5cb85c',
 					icon: '/images/assets/check.svg',
 				}
