@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/communication_payment/static/css/main.ca73b9c4.chunk.css",
+    "main.js": "/communication_payment/static/js/main.7c085a22.chunk.js",
+    "main.js.map": "/communication_payment/static/js/main.7c085a22.chunk.js.map",
+    "runtime-main.js": "/communication_payment/static/js/runtime-main.eac858fb.js",
+    "runtime-main.js.map": "/communication_payment/static/js/runtime-main.eac858fb.js.map",
+    "static/js/2.40870581.chunk.js": "/communication_payment/static/js/2.40870581.chunk.js",
+    "static/js/2.40870581.chunk.js.map": "/communication_payment/static/js/2.40870581.chunk.js.map",
+    "static/js/3.9613df95.chunk.js": "/communication_payment/static/js/3.9613df95.chunk.js",
+    "static/js/3.9613df95.chunk.js.map": "/communication_payment/static/js/3.9613df95.chunk.js.map",
+    "index.html": "/communication_payment/index.html",
+    "static/css/main.ca73b9c4.chunk.css.map": "/communication_payment/static/css/main.ca73b9c4.chunk.css.map",
+    "static/js/2.40870581.chunk.js.LICENSE.txt": "/communication_payment/static/js/2.40870581.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eac858fb.js",
+    "static/js/2.40870581.chunk.js",
+    "static/css/main.ca73b9c4.chunk.css",
+    "static/js/main.7c085a22.chunk.js"
+  ]
+}
